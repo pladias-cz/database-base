@@ -1,4 +1,4 @@
-FROM postgis/postgis:17-master@sha256:2e256cefe2c7182be398ed94895e8de96a5fd2ffc1498e4f3d2a0ea1f4e6d830
+FROM postgis/postgis:17-master@sha256:aa7af42ccc221660e43cd325ea7e805925d49a46d4bcc381dd7cf9442c2a022b
 
 LABEL org.opencontainers.image.source=https://github.com/pladias-cz/database-base
 LABEL org.opencontainers.image.description="Postgres/PostGIS base image for Pladias.cz platform"
